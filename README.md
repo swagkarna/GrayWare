@@ -1,2 +1,3 @@
-# GrayWare
-Cross Platform Ransomware Developed purely in Java for Windows,Linux,Unix,Mac,Solaris
+
+This ransomware is os independent and encrypt all  important files and it is fud
+The Encrypted file will have *.graysuit* extension
